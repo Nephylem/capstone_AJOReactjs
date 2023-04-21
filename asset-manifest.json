@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/capstone_AJOReactjs/static/css/main.2086a0c2.css",
-    "main.js": "/capstone_AJOReactjs/static/js/main.da433d4c.js",
+    "main.js": "/capstone_AJOReactjs/static/js/main.597007ef.js",
     "static/js/787.ae0169c5.chunk.js": "/capstone_AJOReactjs/static/js/787.ae0169c5.chunk.js",
     "static/media/AJO_sisig2.jpg": "/capstone_AJOReactjs/static/media/AJO_sisig2.bc49312d27985e3ea4a5.jpg",
     "static/media/AJO-aboutCover.mp4": "/capstone_AJOReactjs/static/media/AJO-aboutCover.d4880fe91354b014b76c.mp4",
@@ -47,11 +47,11 @@
     "static/media/AJO-logo.png": "/capstone_AJOReactjs/static/media/AJO-logo.dd2fba07ba7096b80663.png",
     "index.html": "/capstone_AJOReactjs/index.html",
     "main.2086a0c2.css.map": "/capstone_AJOReactjs/static/css/main.2086a0c2.css.map",
-    "main.da433d4c.js.map": "/capstone_AJOReactjs/static/js/main.da433d4c.js.map",
+    "main.597007ef.js.map": "/capstone_AJOReactjs/static/js/main.597007ef.js.map",
     "787.ae0169c5.chunk.js.map": "/capstone_AJOReactjs/static/js/787.ae0169c5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2086a0c2.css",
-    "static/js/main.da433d4c.js"
+    "static/js/main.597007ef.js"
   ]
 }
